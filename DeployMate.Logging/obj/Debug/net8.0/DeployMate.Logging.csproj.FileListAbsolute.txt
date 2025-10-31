@@ -1,0 +1,15 @@
+C:\ArgeProjects\DeployMate\DeployMate.Logging\obj\Debug\net8.0\DeployMate.Logging.csproj.AssemblyReference.cache
+C:\ArgeProjects\DeployMate\DeployMate.Logging\obj\Debug\net8.0\DeployMate.Logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\ArgeProjects\DeployMate\DeployMate.Logging\obj\Debug\net8.0\DeployMate.Logging.AssemblyInfoInputs.cache
+C:\ArgeProjects\DeployMate\DeployMate.Logging\obj\Debug\net8.0\DeployMate.Logging.AssemblyInfo.cs
+C:\ArgeProjects\DeployMate\DeployMate.Logging\obj\Debug\net8.0\DeployMate.Logging.csproj.CoreCompileInputs.cache
+C:\ArgeProjects\DeployMate\DeployMate.Logging\bin\Debug\net8.0\DeployMate.Logging.deps.json
+C:\ArgeProjects\DeployMate\DeployMate.Logging\bin\Debug\net8.0\DeployMate.Logging.dll
+C:\ArgeProjects\DeployMate\DeployMate.Logging\bin\Debug\net8.0\DeployMate.Logging.pdb
+C:\ArgeProjects\DeployMate\DeployMate.Logging\bin\Debug\net8.0\DeployMate.Core.dll
+C:\ArgeProjects\DeployMate\DeployMate.Logging\bin\Debug\net8.0\DeployMate.Core.pdb
+C:\ArgeProjects\DeployMate\DeployMate.Logging\obj\Debug\net8.0\DeployMa.0913F17B.Up2Date
+C:\ArgeProjects\DeployMate\DeployMate.Logging\obj\Debug\net8.0\DeployMate.Logging.dll
+C:\ArgeProjects\DeployMate\DeployMate.Logging\obj\Debug\net8.0\refint\DeployMate.Logging.dll
+C:\ArgeProjects\DeployMate\DeployMate.Logging\obj\Debug\net8.0\DeployMate.Logging.pdb
+C:\ArgeProjects\DeployMate\DeployMate.Logging\obj\Debug\net8.0\ref\DeployMate.Logging.dll

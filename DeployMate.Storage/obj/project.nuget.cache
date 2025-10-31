@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "/TIKqOpw5LI=",
+  "success": true,
+  "projectFilePath": "C:\\ArgeProjects\\DeployMate\\DeployMate.Storage\\DeployMate.Storage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emre_\\.nuget\\packages\\polly\\8.4.0\\polly.8.4.0.nupkg.sha512",
+    "C:\\Users\\emre_\\.nuget\\packages\\polly.core\\8.4.0\\polly.core.8.4.0.nupkg.sha512",
+    "C:\\Users\\emre_\\.nuget\\packages\\serilog\\4.0.0\\serilog.4.0.0.nupkg.sha512",
+    "C:\\Users\\emre_\\.nuget\\packages\\serilog.formatting.compact\\3.0.0\\serilog.formatting.compact.3.0.0.nupkg.sha512",
+    "C:\\Users\\emre_\\.nuget\\packages\\serilog.sinks.file\\6.0.0\\serilog.sinks.file.6.0.0.nupkg.sha512",
+    "C:\\Users\\emre_\\.nuget\\packages\\system.io.pipelines\\9.0.1\\system.io.pipelines.9.0.1.nupkg.sha512",
+    "C:\\Users\\emre_\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.10\\system.security.cryptography.protecteddata.9.0.10.nupkg.sha512",
+    "C:\\Users\\emre_\\.nuget\\packages\\system.text.encodings.web\\9.0.1\\system.text.encodings.web.9.0.1.nupkg.sha512",
+    "C:\\Users\\emre_\\.nuget\\packages\\system.text.json\\9.0.1\\system.text.json.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

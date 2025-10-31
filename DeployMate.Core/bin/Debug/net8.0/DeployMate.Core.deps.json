@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DeployMate.Core/1.0.0": {
+        "dependencies": {
+          "Polly": "8.4.0"
+        },
+        "runtime": {
+          "DeployMate.Core.dll": {}
+        }
+      },
+      "Polly/8.4.0": {
+        "dependencies": {
+          "Polly.Core": "8.4.0"
+        },
+        "runtime": {
+          "lib/net6.0/Polly.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.4.0.3442"
+          }
+        }
+      },
+      "Polly.Core/8.4.0": {
+        "runtime": {
+          "lib/net8.0/Polly.Core.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.4.0.3442"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DeployMate.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Polly/8.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-z2EeUutuy49jBQyZ5s2FUuTCGx3GCzJ0cJ2HbjWwks94TsC6bKTtAHKBkMZOa/DyYRl5yIX7MshvMTWl1J6RNg==",
+      "path": "polly/8.4.0",
+      "hashPath": "polly.8.4.0.nupkg.sha512"
+    },
+    "Polly.Core/8.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3AZxuP//pxOeBo9tQs7/tz4Z5TTbu4BYfjpaXZD0JYKJo98ngN9TMUz1nybh4k0ykWkMBpGZALV/AmVIE3ew7A==",
+      "path": "polly.core/8.4.0",
+      "hashPath": "polly.core.8.4.0.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "kAeM22SomUg=",
+  "success": true,
+  "projectFilePath": "C:\\ArgeProjects\\DeployMate\\DeployMate.Hooks\\DeployMate.Hooks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emre_\\.nuget\\packages\\polly\\8.4.0\\polly.8.4.0.nupkg.sha512",
+    "C:\\Users\\emre_\\.nuget\\packages\\polly.core\\8.4.0\\polly.core.8.4.0.nupkg.sha512",
+    "C:\\Users\\emre_\\.nuget\\packages\\serilog\\4.0.0\\serilog.4.0.0.nupkg.sha512",
+    "C:\\Users\\emre_\\.nuget\\packages\\serilog.formatting.compact\\3.0.0\\serilog.formatting.compact.3.0.0.nupkg.sha512",
+    "C:\\Users\\emre_\\.nuget\\packages\\serilog.sinks.file\\6.0.0\\serilog.sinks.file.6.0.0.nupkg.sha512",
+    "C:\\Users\\emre_\\.nuget\\packages\\sharpcompress\\0.36.0\\sharpcompress.0.36.0.nupkg.sha512",
+    "C:\\Users\\emre_\\.nuget\\packages\\zstdsharp.port\\0.7.4\\zstdsharp.port.0.7.4.nupkg.sha512"
+  ],
+  "logs": []
+}

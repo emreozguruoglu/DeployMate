@@ -1,0 +1,17 @@
+C:\ArgeProjects\DeployMate\DeployMate.Storage\obj\Debug\net8.0\DeployMate.Storage.csproj.AssemblyReference.cache
+C:\ArgeProjects\DeployMate\DeployMate.Storage\obj\Debug\net8.0\DeployMate.Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\ArgeProjects\DeployMate\DeployMate.Storage\obj\Debug\net8.0\DeployMate.Storage.AssemblyInfoInputs.cache
+C:\ArgeProjects\DeployMate\DeployMate.Storage\obj\Debug\net8.0\DeployMate.Storage.AssemblyInfo.cs
+C:\ArgeProjects\DeployMate\DeployMate.Storage\obj\Debug\net8.0\DeployMate.Storage.csproj.CoreCompileInputs.cache
+C:\ArgeProjects\DeployMate\DeployMate.Storage\bin\Debug\net8.0\DeployMate.Storage.deps.json
+C:\ArgeProjects\DeployMate\DeployMate.Storage\bin\Debug\net8.0\DeployMate.Storage.dll
+C:\ArgeProjects\DeployMate\DeployMate.Storage\bin\Debug\net8.0\DeployMate.Storage.pdb
+C:\ArgeProjects\DeployMate\DeployMate.Storage\bin\Debug\net8.0\DeployMate.Core.dll
+C:\ArgeProjects\DeployMate\DeployMate.Storage\bin\Debug\net8.0\DeployMate.Logging.dll
+C:\ArgeProjects\DeployMate\DeployMate.Storage\bin\Debug\net8.0\DeployMate.Core.pdb
+C:\ArgeProjects\DeployMate\DeployMate.Storage\bin\Debug\net8.0\DeployMate.Logging.pdb
+C:\ArgeProjects\DeployMate\DeployMate.Storage\obj\Debug\net8.0\DeployMa.E320D5FA.Up2Date
+C:\ArgeProjects\DeployMate\DeployMate.Storage\obj\Debug\net8.0\DeployMate.Storage.dll
+C:\ArgeProjects\DeployMate\DeployMate.Storage\obj\Debug\net8.0\refint\DeployMate.Storage.dll
+C:\ArgeProjects\DeployMate\DeployMate.Storage\obj\Debug\net8.0\DeployMate.Storage.pdb
+C:\ArgeProjects\DeployMate\DeployMate.Storage\obj\Debug\net8.0\ref\DeployMate.Storage.dll

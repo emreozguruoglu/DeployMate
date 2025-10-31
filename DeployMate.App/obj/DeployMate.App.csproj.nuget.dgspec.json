@@ -1,0 +1,494 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\ArgeProjects\\DeployMate\\DeployMate.App\\DeployMate.App.csproj": {}
+  },
+  "projects": {
+    "C:\\ArgeProjects\\DeployMate\\DeployMate.App\\DeployMate.App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ArgeProjects\\DeployMate\\DeployMate.App\\DeployMate.App.csproj",
+        "projectName": "DeployMate.App",
+        "projectPath": "C:\\ArgeProjects\\DeployMate\\DeployMate.App\\DeployMate.App.csproj",
+        "packagesPath": "C:\\Users\\emre_\\.nuget\\packages\\",
+        "outputPath": "C:\\ArgeProjects\\DeployMate\\DeployMate.App\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\emre_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0-windows7.0": {
+            "targetAlias": "net9.0-windows",
+            "projectReferences": {
+              "C:\\ArgeProjects\\DeployMate\\DeployMate.Core\\DeployMate.Core.csproj": {
+                "projectPath": "C:\\ArgeProjects\\DeployMate\\DeployMate.Core\\DeployMate.Core.csproj"
+              },
+              "C:\\ArgeProjects\\DeployMate\\DeployMate.Hooks\\DeployMate.Hooks.csproj": {
+                "projectPath": "C:\\ArgeProjects\\DeployMate\\DeployMate.Hooks\\DeployMate.Hooks.csproj"
+              },
+              "C:\\ArgeProjects\\DeployMate\\DeployMate.Logging\\DeployMate.Logging.csproj": {
+                "projectPath": "C:\\ArgeProjects\\DeployMate\\DeployMate.Logging\\DeployMate.Logging.csproj"
+              },
+              "C:\\ArgeProjects\\DeployMate\\DeployMate.Storage\\DeployMate.Storage.csproj": {
+                "projectPath": "C:\\ArgeProjects\\DeployMate\\DeployMate.Storage\\DeployMate.Storage.csproj"
+              },
+              "C:\\ArgeProjects\\DeployMate\\DeployMate.Transfer\\DeployMate.Transfer.csproj": {
+                "projectPath": "C:\\ArgeProjects\\DeployMate\\DeployMate.Transfer\\DeployMate.Transfer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0-windows7.0": {
+          "targetAlias": "net9.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\ArgeProjects\\DeployMate\\DeployMate.Core\\DeployMate.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ArgeProjects\\DeployMate\\DeployMate.Core\\DeployMate.Core.csproj",
+        "projectName": "DeployMate.Core",
+        "projectPath": "C:\\ArgeProjects\\DeployMate\\DeployMate.Core\\DeployMate.Core.csproj",
+        "packagesPath": "C:\\Users\\emre_\\.nuget\\packages\\",
+        "outputPath": "C:\\ArgeProjects\\DeployMate\\DeployMate.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\emre_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Polly": {
+              "target": "Package",
+              "version": "[8.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\ArgeProjects\\DeployMate\\DeployMate.Hooks\\DeployMate.Hooks.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ArgeProjects\\DeployMate\\DeployMate.Hooks\\DeployMate.Hooks.csproj",
+        "projectName": "DeployMate.Hooks",
+        "projectPath": "C:\\ArgeProjects\\DeployMate\\DeployMate.Hooks\\DeployMate.Hooks.csproj",
+        "packagesPath": "C:\\Users\\emre_\\.nuget\\packages\\",
+        "outputPath": "C:\\ArgeProjects\\DeployMate\\DeployMate.Hooks\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\emre_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\ArgeProjects\\DeployMate\\DeployMate.Core\\DeployMate.Core.csproj": {
+                "projectPath": "C:\\ArgeProjects\\DeployMate\\DeployMate.Core\\DeployMate.Core.csproj"
+              },
+              "C:\\ArgeProjects\\DeployMate\\DeployMate.Logging\\DeployMate.Logging.csproj": {
+                "projectPath": "C:\\ArgeProjects\\DeployMate\\DeployMate.Logging\\DeployMate.Logging.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "SharpCompress": {
+              "target": "Package",
+              "version": "[0.36.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\ArgeProjects\\DeployMate\\DeployMate.Logging\\DeployMate.Logging.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ArgeProjects\\DeployMate\\DeployMate.Logging\\DeployMate.Logging.csproj",
+        "projectName": "DeployMate.Logging",
+        "projectPath": "C:\\ArgeProjects\\DeployMate\\DeployMate.Logging\\DeployMate.Logging.csproj",
+        "packagesPath": "C:\\Users\\emre_\\.nuget\\packages\\",
+        "outputPath": "C:\\ArgeProjects\\DeployMate\\DeployMate.Logging\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\emre_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\ArgeProjects\\DeployMate\\DeployMate.Core\\DeployMate.Core.csproj": {
+                "projectPath": "C:\\ArgeProjects\\DeployMate\\DeployMate.Core\\DeployMate.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Serilog": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Serilog.Formatting.Compact": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\ArgeProjects\\DeployMate\\DeployMate.Storage\\DeployMate.Storage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ArgeProjects\\DeployMate\\DeployMate.Storage\\DeployMate.Storage.csproj",
+        "projectName": "DeployMate.Storage",
+        "projectPath": "C:\\ArgeProjects\\DeployMate\\DeployMate.Storage\\DeployMate.Storage.csproj",
+        "packagesPath": "C:\\Users\\emre_\\.nuget\\packages\\",
+        "outputPath": "C:\\ArgeProjects\\DeployMate\\DeployMate.Storage\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\emre_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\ArgeProjects\\DeployMate\\DeployMate.Core\\DeployMate.Core.csproj": {
+                "projectPath": "C:\\ArgeProjects\\DeployMate\\DeployMate.Core\\DeployMate.Core.csproj"
+              },
+              "C:\\ArgeProjects\\DeployMate\\DeployMate.Logging\\DeployMate.Logging.csproj": {
+                "projectPath": "C:\\ArgeProjects\\DeployMate\\DeployMate.Logging\\DeployMate.Logging.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "System.Security.Cryptography.ProtectedData": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\ArgeProjects\\DeployMate\\DeployMate.Transfer\\DeployMate.Transfer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ArgeProjects\\DeployMate\\DeployMate.Transfer\\DeployMate.Transfer.csproj",
+        "projectName": "DeployMate.Transfer",
+        "projectPath": "C:\\ArgeProjects\\DeployMate\\DeployMate.Transfer\\DeployMate.Transfer.csproj",
+        "packagesPath": "C:\\Users\\emre_\\.nuget\\packages\\",
+        "outputPath": "C:\\ArgeProjects\\DeployMate\\DeployMate.Transfer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\emre_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\ArgeProjects\\DeployMate\\DeployMate.Core\\DeployMate.Core.csproj": {
+                "projectPath": "C:\\ArgeProjects\\DeployMate\\DeployMate.Core\\DeployMate.Core.csproj"
+              },
+              "C:\\ArgeProjects\\DeployMate\\DeployMate.Logging\\DeployMate.Logging.csproj": {
+                "projectPath": "C:\\ArgeProjects\\DeployMate\\DeployMate.Logging\\DeployMate.Logging.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentFTP": {
+              "target": "Package",
+              "version": "[51.0.0, )"
+            },
+            "SSH.NET": {
+              "target": "Package",
+              "version": "[2025.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

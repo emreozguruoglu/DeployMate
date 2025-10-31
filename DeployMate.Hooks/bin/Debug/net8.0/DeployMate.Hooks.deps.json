@@ -1,0 +1,180 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DeployMate.Hooks/1.0.0": {
+        "dependencies": {
+          "DeployMate.Core": "1.0.0",
+          "DeployMate.Logging": "1.0.0",
+          "SharpCompress": "0.36.0"
+        },
+        "runtime": {
+          "DeployMate.Hooks.dll": {}
+        }
+      },
+      "Polly/8.4.0": {
+        "dependencies": {
+          "Polly.Core": "8.4.0"
+        },
+        "runtime": {
+          "lib/net6.0/Polly.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.4.0.3442"
+          }
+        }
+      },
+      "Polly.Core/8.4.0": {
+        "runtime": {
+          "lib/net8.0/Polly.Core.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.4.0.3442"
+          }
+        }
+      },
+      "Serilog/4.0.0": {
+        "runtime": {
+          "lib/net8.0/Serilog.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "Serilog.Formatting.Compact/3.0.0": {
+        "dependencies": {
+          "Serilog": "4.0.0"
+        },
+        "runtime": {
+          "lib/net8.0/Serilog.Formatting.Compact.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          }
+        }
+      },
+      "Serilog.Sinks.File/6.0.0": {
+        "dependencies": {
+          "Serilog": "4.0.0"
+        },
+        "runtime": {
+          "lib/net8.0/Serilog.Sinks.File.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.0.0"
+          }
+        }
+      },
+      "SharpCompress/0.36.0": {
+        "dependencies": {
+          "ZstdSharp.Port": "0.7.4"
+        },
+        "runtime": {
+          "lib/net8.0/SharpCompress.dll": {
+            "assemblyVersion": "0.36.0.0",
+            "fileVersion": "0.36.0.0"
+          }
+        }
+      },
+      "ZstdSharp.Port/0.7.4": {
+        "runtime": {
+          "lib/net8.0/ZstdSharp.dll": {
+            "assemblyVersion": "0.7.4.0",
+            "fileVersion": "0.7.4.0"
+          }
+        }
+      },
+      "DeployMate.Core/1.0.0": {
+        "dependencies": {
+          "Polly": "8.4.0"
+        },
+        "runtime": {
+          "DeployMate.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "DeployMate.Logging/1.0.0": {
+        "dependencies": {
+          "DeployMate.Core": "1.0.0",
+          "Serilog": "4.0.0",
+          "Serilog.Formatting.Compact": "3.0.0",
+          "Serilog.Sinks.File": "6.0.0"
+        },
+        "runtime": {
+          "DeployMate.Logging.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DeployMate.Hooks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Polly/8.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-z2EeUutuy49jBQyZ5s2FUuTCGx3GCzJ0cJ2HbjWwks94TsC6bKTtAHKBkMZOa/DyYRl5yIX7MshvMTWl1J6RNg==",
+      "path": "polly/8.4.0",
+      "hashPath": "polly.8.4.0.nupkg.sha512"
+    },
+    "Polly.Core/8.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3AZxuP//pxOeBo9tQs7/tz4Z5TTbu4BYfjpaXZD0JYKJo98ngN9TMUz1nybh4k0ykWkMBpGZALV/AmVIE3ew7A==",
+      "path": "polly.core/8.4.0",
+      "hashPath": "polly.core.8.4.0.nupkg.sha512"
+    },
+    "Serilog/4.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2jDkUrSh5EofOp7Lx5Zgy0EB+7hXjjxE2ktTb1WVQmU00lDACR2TdROGKU0K1pDTBSJBN1PqgYpgOZF8mL7NJw==",
+      "path": "serilog/4.0.0",
+      "hashPath": "serilog.4.0.0.nupkg.sha512"
+    },
+    "Serilog.Formatting.Compact/3.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wQsv14w9cqlfB5FX2MZpNsTawckN4a8dryuNGbebB/3Nh1pXnROHZov3swtu3Nj5oNG7Ba+xdu7Et/ulAUPanQ==",
+      "path": "serilog.formatting.compact/3.0.0",
+      "hashPath": "serilog.formatting.compact.3.0.0.nupkg.sha512"
+    },
+    "Serilog.Sinks.File/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lxjg89Y8gJMmFxVkbZ+qDgjl+T4yC5F7WSLTvA+5q0R04tfKVLRL/EHpYoJ/MEQd2EeCKDuylBIVnAYMotmh2A==",
+      "path": "serilog.sinks.file/6.0.0",
+      "hashPath": "serilog.sinks.file.6.0.0.nupkg.sha512"
+    },
+    "SharpCompress/0.36.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-48am//T6Ou+GmyPmBaxaFN1ym0VNidRcBeANr9+OYTzpKRz8QMGzAkHVkCV30lFQ/gnWqGr50AuebahpG1C6xA==",
+      "path": "sharpcompress/0.36.0",
+      "hashPath": "sharpcompress.0.36.0.nupkg.sha512"
+    },
+    "ZstdSharp.Port/0.7.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ziptnotpUJr51afwXJQ5Wc03dvDiZAdmxS08s1g7SHn/VzbyZUXdH6yORk/zaNjzUOEE6pVZ0Nqztab0rYROgQ==",
+      "path": "zstdsharp.port/0.7.4",
+      "hashPath": "zstdsharp.port.0.7.4.nupkg.sha512"
+    },
+    "DeployMate.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DeployMate.Logging/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

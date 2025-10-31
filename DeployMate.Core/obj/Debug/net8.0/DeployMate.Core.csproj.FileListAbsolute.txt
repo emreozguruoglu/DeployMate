@@ -1,0 +1,12 @@
+C:\ArgeProjects\DeployMate\DeployMate.Core\bin\Debug\net8.0\DeployMate.Core.deps.json
+C:\ArgeProjects\DeployMate\DeployMate.Core\bin\Debug\net8.0\DeployMate.Core.dll
+C:\ArgeProjects\DeployMate\DeployMate.Core\bin\Debug\net8.0\DeployMate.Core.pdb
+C:\ArgeProjects\DeployMate\DeployMate.Core\obj\Debug\net8.0\DeployMate.Core.csproj.AssemblyReference.cache
+C:\ArgeProjects\DeployMate\DeployMate.Core\obj\Debug\net8.0\DeployMate.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\ArgeProjects\DeployMate\DeployMate.Core\obj\Debug\net8.0\DeployMate.Core.AssemblyInfoInputs.cache
+C:\ArgeProjects\DeployMate\DeployMate.Core\obj\Debug\net8.0\DeployMate.Core.AssemblyInfo.cs
+C:\ArgeProjects\DeployMate\DeployMate.Core\obj\Debug\net8.0\DeployMate.Core.csproj.CoreCompileInputs.cache
+C:\ArgeProjects\DeployMate\DeployMate.Core\obj\Debug\net8.0\DeployMate.Core.dll
+C:\ArgeProjects\DeployMate\DeployMate.Core\obj\Debug\net8.0\refint\DeployMate.Core.dll
+C:\ArgeProjects\DeployMate\DeployMate.Core\obj\Debug\net8.0\DeployMate.Core.pdb
+C:\ArgeProjects\DeployMate\DeployMate.Core\obj\Debug\net8.0\ref\DeployMate.Core.dll

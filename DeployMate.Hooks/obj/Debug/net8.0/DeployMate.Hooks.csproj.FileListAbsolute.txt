@@ -1,0 +1,17 @@
+C:\ArgeProjects\DeployMate\DeployMate.Hooks\bin\Debug\net8.0\DeployMate.Hooks.deps.json
+C:\ArgeProjects\DeployMate\DeployMate.Hooks\bin\Debug\net8.0\DeployMate.Hooks.dll
+C:\ArgeProjects\DeployMate\DeployMate.Hooks\bin\Debug\net8.0\DeployMate.Hooks.pdb
+C:\ArgeProjects\DeployMate\DeployMate.Hooks\bin\Debug\net8.0\DeployMate.Core.dll
+C:\ArgeProjects\DeployMate\DeployMate.Hooks\bin\Debug\net8.0\DeployMate.Logging.dll
+C:\ArgeProjects\DeployMate\DeployMate.Hooks\bin\Debug\net8.0\DeployMate.Core.pdb
+C:\ArgeProjects\DeployMate\DeployMate.Hooks\bin\Debug\net8.0\DeployMate.Logging.pdb
+C:\ArgeProjects\DeployMate\DeployMate.Hooks\obj\Debug\net8.0\DeployMate.Hooks.csproj.AssemblyReference.cache
+C:\ArgeProjects\DeployMate\DeployMate.Hooks\obj\Debug\net8.0\DeployMate.Hooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\ArgeProjects\DeployMate\DeployMate.Hooks\obj\Debug\net8.0\DeployMate.Hooks.AssemblyInfoInputs.cache
+C:\ArgeProjects\DeployMate\DeployMate.Hooks\obj\Debug\net8.0\DeployMate.Hooks.AssemblyInfo.cs
+C:\ArgeProjects\DeployMate\DeployMate.Hooks\obj\Debug\net8.0\DeployMate.Hooks.csproj.CoreCompileInputs.cache
+C:\ArgeProjects\DeployMate\DeployMate.Hooks\obj\Debug\net8.0\DeployMa.D0FE0F8C.Up2Date
+C:\ArgeProjects\DeployMate\DeployMate.Hooks\obj\Debug\net8.0\DeployMate.Hooks.dll
+C:\ArgeProjects\DeployMate\DeployMate.Hooks\obj\Debug\net8.0\refint\DeployMate.Hooks.dll
+C:\ArgeProjects\DeployMate\DeployMate.Hooks\obj\Debug\net8.0\DeployMate.Hooks.pdb
+C:\ArgeProjects\DeployMate\DeployMate.Hooks\obj\Debug\net8.0\ref\DeployMate.Hooks.dll

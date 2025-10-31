@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\DeployMate.Core\DeployMate.Core.csproj" />
+    <ProjectReference Include="..\DeployMate.Transfer\DeployMate.Transfer.csproj" />
+    <ProjectReference Include="..\DeployMate.Hooks\DeployMate.Hooks.csproj" />
+    <ProjectReference Include="..\DeployMate.Logging\DeployMate.Logging.csproj" />
+    <ProjectReference Include="..\DeployMate.Storage\DeployMate.Storage.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+</Project>
