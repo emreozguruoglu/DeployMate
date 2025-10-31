@@ -1,4 +1,7 @@
-# DeployMate
+
+<p align="center">
+  <img width="512" height="512" alt="DeployMate logo" src="https://github.com/user-attachments/assets/3d90f0a8-edde-4eb6-9dc8-7cfaebd27df3" />
+</p>
 
 A modern **Windows** deployment desktop app for teams that still do **manual file deployments**. DeployMate lets you define multiple **targets** (e.g., DEV/TEST/PREPROD/PROD or parallel customer environments), customize **hooks** before/after transfer, and **securely store credentials**. You can start deployments **in parallel**, toggle **dry-run**, and keep everything versioned in a single JSON config.
 
