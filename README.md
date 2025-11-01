@@ -54,7 +54,7 @@ Key packages:
 
 ### Build & run
 ```powershell
-git clone <your-repo-url>.git
+git clone https://github.com/emreozguruoglu/DeployMate.git
 cd DeployMate
 dotnet build
 # Run the WinForms app:
